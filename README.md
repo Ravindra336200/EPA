@@ -1,3 +1,2 @@
-# EPA
-A platform for personalized viewing and get interactive with the digital photographs with offline feature where all the data could be fetched without any internet issues. Download the sample album :
-![](/ss.jpeg)
+E-Photographic Album
+The problem is people fail to manage and share their images in an appropriate way, the traditional way has portability and handling issues. So this E-Album can let users share their memories with their loved ones in an appropriate way where there would be no portability and handling issues and along with that it will give user a personalised experience of viewing those photographs.
