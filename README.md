@@ -5,4 +5,7 @@ Screenshots\
 ![](Screenshots/s2.jpeg)
 ![](Screenshots/s3.jpeg)
 ![](Screenshots/s4.jpeg)
-![](Screenshots/s5.jpeg)
+![](Screenshots/s5.jpeg)\
+Contact Details\
+Email: ncgroup99@gmail.com\
+Mobile: 7822015007,9351758536
